@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1,[WhatsApp +8801711262512]
+#EXTINF:-1 tvg-logo="https://img.favpng.com/25/6/0/camera-lens-lens-flare-png-favpng-QqP6uF7SHqdJryVQTkTAiFN3c.jpg" group-title="Telefocus IPTV",[WhatsApp/IMO +8801711262512]
 https://streamable.com/gdj7r
-#EXTINF:-1,Ananda TV
+#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2018/03/ATV-Logo.jpg" group-title="Bangla Movies",Ananda TV
 https://streamer-1.toffeelive.com/live/ananda_tv_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg" group-title="Children TV",Sony Yay (Bangla)
+https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://kccl.tv/sites/default/files/Sony_Ten_1_HD.jpg" group-title="Sports",Sony Ten 1 HD
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_720/index.m3u8
