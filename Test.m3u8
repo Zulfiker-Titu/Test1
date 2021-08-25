@@ -1,3 +1,3 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies SD
-http://103.157.237.18:8000/play/203
+#EXTINF:-1,Colors Bangla Cinema
+https://apalyastream12-lh.akamaihd.net/i/COLORSBANGLACINEMAABRDVR2_2000@172332/index_4_av-p.m3u8?sd=10&dw=3600&rebase=on&hdntl=exp=1629892914~acl=%2f*~data=hdntl~hmac=ad066f16f66add40c140917cbf4b80ceba9d394db52738d2261864a95f598542
