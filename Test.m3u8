@@ -117,7 +117,10 @@ http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mohona_tv.png" group-title="Entertainment",Mohona TV
 http://10.16.100.208:8082/hindi/mohon@_1sTop.m3u8
 #EXTINF:-1 tvg-logo="https://www.myflixbd.com/uploads/tv_image/sm/mytv.png" group-title="Entertainment",MY TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+http://stream.amrbd.com:8082/MyTV/tracks-v1a1/mono.m3u8?token=047f9d47f1aef1cb609f94b021355b000a37c465-c8842e118a4d928bb0a4399dc1a26173-1651700430-1651689630
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9YQzGcW/My-Cinema.jpg" group-title="Bangla Movies",My Cinema
+#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Entertainment",NTV
 http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8?token=151c85e1bc39d0446722659caaa029009f01d461-62f976764f23b9804a49bab61908acfe-1651687624-1651676824
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Entertainment",NTV UK
