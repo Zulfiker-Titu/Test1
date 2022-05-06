@@ -10,8 +10,9 @@ http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
 #https://piratesiptv.shortcm.li/gazi.m3u8
 #http://103.166.253.222/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-1)
+http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 #http://103.70.140.27:8080/hls/tsports.m3u8
-http://103.55.144.46:80/hls/t-sports.m3u8
+#http://103.55.144.46:80/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-2)
 http://103.124.110.34:8082/tsp/index.m3u8
 #http://172.16.50.250:8081/live/mystream1/chunks.m3u8
