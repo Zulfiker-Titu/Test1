@@ -74,8 +74,8 @@ http://10.16.100.245:80/hindi/b@ngla_tv_1stop.m3u8
 http://stream.amrbd.com:8082/BanglaVision/tracks-v1a1/mono.m3u8?token=ea045443043af8e55ba1a9ee2242b3185eba502c-b5feffe387a7c1760b9e28b07a323d95-1651690987-1651680187
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/5/58/বিজয়_টিভির_লোগো.png/220px-বিজয়_টিভির_লোগো.png" group-title="Entertainment",Bijoy TV
-http://stream.amrbd.com:8082/BijoyTv/tracks-v1a1/mono.m3u8?token=a4d339c76cf206214eb5726ca4f5622374538f0f-40d8dd98cfca1310bfab50ff7c65105b-1651821310-1651810510
-#http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
+#http://stream.amrbd.com:8082/BijoyTv/tracks-v1a1/mono.m3u8?token=a4d339c76cf206214eb5726ca4f5622374538f0f-40d8dd98cfca1310bfab50ff7c65105b-1651821310-1651810510
+http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Entertainment",boishakhi tv
 http://stream.amrbd.com:8082/Boishakhi/tracks-v1a1/mono.m3u8?token=31031f38a361acdd7c9f830fea3fae5eb86a9599-7a7319bdd084ecbe433f4dfe707c97d0-1651821396-1651810596
@@ -260,18 +260,8 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #http://versewsa.pc.cdn.bitgravity.com:80/versewsa/live/amlst:cnnews_,b256,b512,b1024,b1824,.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3XcVLz/in-ctvn-akd-plus-3070.webp" group-title="News",CTVN AKD PLUS
 #http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:ctvn_akd_plus_,b256,b512,b1024,b1824,.smil/chunklist_b512000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/480PxL3/rang.webp" group-title="Assamese",Rang
-#http://jo123.biz/jweb/m3u8.php?c=Rang&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/880366209404776451/d8zE7-fu_400x400.jpg" group-title="Assamese",Rengoni
-#http://jo123.biz/jweb/m3u8.php?c=Rengoni&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/indradhanu-logo.jpg" group-title="Assamese",Indradhanu
-#http://jo123.biz/jweb/m3u8.php?c=Indradhanu&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/jonack-tv-channel-logo.jpg" group-title="Assamese",Jonack
-http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://theguwahatitimes.info/wp-content/uploads/2020/08/2020-08-05-11-12-29-99-768x400.jpg" group-title="Assamese",DD Assam
-http://idvd.multitvsolution.com/idvo/ddnortheast.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2604897914/fa28xw0ey6vw0njhb3po_400x400.png" group-title="Assamese",Ramdhenu
-#http://jo123.biz/jweb/m3u8.php?c=Ramdhenu&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1437683320041533449/utkPZi5D_400x400.jpg" group-title="Assamese",Da News Plus Assam
+http://rtmp.smartstream.video:80/danewsplus/danewsplus/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ji5nqGt.jpg",NK TV
 https://rtmp.smartstream.video/nktvlive/nktvlive/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qM1TtR4/in-prag-news-1508.webp" group-title="Assamese",Prag News
@@ -288,10 +278,20 @@ https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/962979203439198210/P4Mdl5Du_400x400.jpg" group-title="Assamese",News Live
 https://cdn.pride-east.in:443/smartstream-us/newslivembr/newslivembr.smil/chunklist_w1134718099_b400000.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1437683320041533449/utkPZi5D_400x400.jpg" group-title="Assamese",Da News Plus Assam
-http://rtmp.smartstream.video:80/danewsplus/danewsplus/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://northeastlivetv.com/wp-content/uploads/2021/02/ne_live_mobile_logo_retina.png" group-title="Assamese",North East
 https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://theguwahatitimes.info/wp-content/uploads/2020/08/2020-08-05-11-12-29-99-768x400.jpg" group-title="Assamese",DD Assam
+http://idvd.multitvsolution.com/idvo/ddnortheast.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/480PxL3/rang.webp" group-title="Assamese",Rang
+#http://jo123.biz/jweb/m3u8.php?c=Rang&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/880366209404776451/d8zE7-fu_400x400.jpg" group-title="Assamese",Rengoni
+#http://jo123.biz/jweb/m3u8.php?c=Rengoni&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/indradhanu-logo.jpg" group-title="Assamese",Indradhanu
+#http://jo123.biz/jweb/m3u8.php?c=Indradhanu&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/jonack-tv-channel-logo.jpg" group-title="Assamese",Jonack
+http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2604897914/fa28xw0ey6vw0njhb3po_400x400.png" group-title="Assamese",Ramdhenu
+#http://jo123.biz/jweb/m3u8.php?c=Ramdhenu&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="Food",Asian Food Network
 https://vips-livecdn.fptplay.net/hda1/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",Star World
