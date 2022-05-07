@@ -10,6 +10,7 @@ http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
 #https://piratesiptv.shortcm.li/gazi.m3u8
 #http://103.166.253.222/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-1)
+#http://103.167.190.250:80/hls/t-sports.m3u8
 http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 #http://103.70.140.27:8080/hls/tsports.m3u8
 #http://103.55.144.46:80/hls/t-sports.m3u8
@@ -29,6 +30,8 @@ http://10.16.100.207:8082/sports/sonyTen2_twohd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sony_ten.jpg" group-title="Sports",Sony Ten 3
 http://10.16.100.207:8082/sports/s0ny_ten3three.m3u8
 #http://103.55.144.46:80/hls/sonyten3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sony_ten.jpg" group-title="Sports",Sony Ten 4
+http://103.151.42.206:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPtGLZg/Sony-Six.png" group-title="Sports",Sony Six
 http://10.16.100.207:8082/sports/s0ny6six.m3u8
 #http://103.55.144.46:80/hls/sonysix.m3u8
@@ -53,6 +56,7 @@ http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFZLTr66kSVh2moE5JpbSsfGRnowbY7fIE5peP2TmyQ1hRn8wIL4FuU0IS3i-C7fu9EsQYXtJTUS5qLYag6o1N7I6v5WOd7iwGtY4KPgOOvBwWwzz5qisl95ULUx6w2TC-cccM172EDghP2vM0lEDRzY2E5sx8LshUMPVclpYQCKoE1ePVacPyQkBahQ/w200-h200/Willow%20HD%20Logo.jpg" group-title="Sports",Willow HD
 http://103.124.110.34:8082/WILLOW-CRICKET-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adsanddata.be/content/uploads/2021/03/eurosport-icon-300x200.png" group-title="Sports",Eurosport
+http://103.151.42.206:8000/play/a00n/index.m3u8
 #http://103.55.144.46:80/hls/euro.m3u8 
 
 #EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2018/03/ATV-Logo.jpg" group-title="Bangla Movies",Ananda TV
@@ -302,6 +306,8 @@ http://221.120.204.4/star-world-LOCKLE/index.m3u8
 http://61.221.81.93:8561/hls/62/804/ch08.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",Star Movies Select HD
+http://103.151.42.206:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",AXN
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",HBO HD
