@@ -125,7 +125,7 @@ http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=2623dc9e43ee
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/etv_Bangladesh.jpg" group-title="Entertainment",Eekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="News",Independent TV
-http://103.55.144.46:80/hls/indepen.m3u8
+http://103.167.190.250:80/hls/indepen.m3u8
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="News",Jamuna TV
 http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
@@ -171,7 +171,8 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 http://stream.amrbd.com:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=8a908fe967a43adeb5f5ebddc44186952f8278a9-fc0167501a488f857cb2563a7044478f-1651520501-1651509701
 #http://103.55.144.46:80/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/10/colorsbangla-696x464.jpg" group-title="Entertainment",Colors Bangla HD (Opt-2)
-http://10.16.100.204:8082/hls/col0rsb@ngla.m3u8
+http://103.167.190.250:80/hls/colorsbangla.m3u8
+#http://10.16.100.204:8082/hls/col0rsb@ngla.m3u8
 #http://103.166.253.222/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C8QYP1L/Colors-Bangla-Cinema.jpg" group-title="Entertainment",Colors Bangla Cinema
 http://103.55.144.46:80/hls/colore-bangla-cinema.m3u8
@@ -188,7 +189,8 @@ http://89.187.162.109/STARJALSHA/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD (Opt-01)
 http://stream.amrbd.com:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=6a316271b26335c8014b31785bb2422c3b2cff13-df21fe3ebe81d4d95a5d99d1cde084b0-1651520125-1651509325
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD (Opt-2)
-http://103.55.144.46:80/hls/jalshamovies.m3u8
+http://103.167.190.250:80/hls/jalshamovies.m3u8
+#http://103.55.144.46:80/hls/jalshamovies.m3u8
 #http://103.166.253.222/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD
 #http://jo123.biz/jweb/m3u8.php?c=Zee_Bangla&q=1200&e=junk.m3u8
@@ -196,17 +198,20 @@ http://103.55.144.46:80/hls/jalshamovies.m3u8
 http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=5a5db95b0db47eefa81fee62f385a77bd5816e17-6f1da7e759bbad9dc0e17202e4a9559f-1651520234-1651509434
 #http://103.55.144.46:80/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-2)
-http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
+http://103.167.190.250:80/hls/zeebanglahd.m3u8
+#http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
 #http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34395?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #http://103.166.253.222/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-1)
 #http://jo123.biz/jweb/m3u8.php?c=Zee_Bangla_Cinema&q=1200&e=junk.m3u8
 http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=3ba311553a4708e6d4f2960150e827912330f2d4-1167b948bc6fde5b56b632fcf281545d-1649708758-1649697958
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-2)
-http://103.55.144.46:80/hls/zee-bangla-cinema.m3u8
+http://103.167.190.250:80/hls/zee-bangla-cinema.m3u8
+#http://103.55.144.46:80/hls/zee-bangla-cinema.m3u8
 #http://103.166.253.222/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Entertainment",Sun Bangla
-http://103.55.144.46:80/hls/sunbangla.m3u8
+http://103.167.190.250:80/hls/sunbangla.m3u8
+#http://103.55.144.46:80/hls/sunbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zh9Rtm3/images-jpeg.jpg" group-title="Entertainment",Enterr10 Bangla
 http://idvd.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/R-plus-gold.jpg" group-title="Entertainment",R Plus Gold
@@ -219,16 +224,21 @@ http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
 http://idvd.multitvsolution.com/idvo/ddbangla.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery HD
 #http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34391?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-http://103.55.144.46:80/hls/discovery.m3u8
+http://103.167.190.250:80/hls/discovery.m3u8
+#http://103.55.144.46:80/hls/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Documentary",National Geographic HD
-http://103.55.144.46:80/hls/ngohd.m3u8
+http://103.167.190.250:80/hls/ngohd.m3u8
+#http://103.55.144.46:80/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/travel-xp-hd-logo.jpg" group-title="Documentary",travel xp HD
 #http://jo123.biz/jweb/m3u8.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
-http://103.55.144.46:80/hls/travelxp.m3u8
+http://103.167.190.250:80/hls/travelxp.m3u8
+#http://103.55.144.46:80/hls/travelxp.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Documentary",Animal Planet HD Hindi
-http://103.55.144.46:80/hls/animalplanent.m3u8
+http://103.167.190.250:80/hls/animalplanet.m3u8
+#http://103.55.144.46:80/hls/animalplanent.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/400px-TLC_Logo.svg.png" group-title="Documentary",TLC HD Hindi
-http://103.55.144.46:80/hls/tlc.m3u8
+http://103.167.190.250:80/hls/tlc.m3u8
+#http://103.55.144.46:80/hls/tlc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="Music",ATN Music
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://amarnet.xyz/uploads/tv_image/sm/gaan-bangla-tv.jpg" group-title="Music",Gaan Bangla
@@ -245,7 +255,7 @@ http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 #EXTINF:-1 tvg-logo="https://rplus.in/wp-content/uploads/2019/01/mobile-logo-rplus-news.png" group-title="News",R Plus News
 https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/20rrJqW/images-jpeg-1.jpg" group-title="News",News Time Bangla
-http://idvd.multitvsolution.com/idvo/newstimebangla.m3u8 
+#http://idvd.multitvsolution.com/idvo/newstimebangla.m3u8 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/202101/abp-annada.png.jpg" group-title="News",ABP Ananda
 https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2021/02/News18-Bangla.jpg" group-title="News",News 18 Bangla
