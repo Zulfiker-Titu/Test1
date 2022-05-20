@@ -159,7 +159,7 @@ http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mohona_tv.png" group-title="Entertainment",Mohona TV
 #http://stream.amrbd.com:8082/MohonaTV/tracks-v1a1/mono.m3u8?token=c445b4010076d984c7959eeded4877b3c1296d33-4b923c146f86ed7d344786832e733723-1651822907-1651812107
 http://10.16.100.208:8082/hindi/mohon@_1sTop.m3u8
-#EXTINF:-1 tvg-logo="https://www.myflixbd.com/uploads/tv_image/sm/mytv.png" group-title="Entertainment",MY TV
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1710354.jpg" group-title="Entertainment",MY TV
 http://tvserver.aliflailabd.com:8989/my-tv/index.m3u8
 #http://stream.amrbd.com:8082/MyTV/tracks-v1a1/mono.m3u8?token=047f9d47f1aef1cb609f94b021355b000a37c465-c8842e118a4d928bb0a4399dc1a26173-1651700430-1651689630
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
@@ -208,6 +208,8 @@ http://103.167.190.250:80/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C8QYP1L/Colors-Bangla-Cinema.jpg" group-title="Entertainment",Colors Bangla Cinema
 http://103.167.190.250:80/hls/colore-bangla-cinema.m3u8
 #http://103.55.144.46:80/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NVKCB5p/ruposhi.jpg" group-title="Entertainment",Ruposhi Bangla
+http://14.199.164.20:4001/play/a0s7/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD
 http://10.16.100.204:8082/hls/st@rj@lsha.m3u8
 #https://live.durbinlive.com/hls/starjalsha.m3u8
@@ -253,7 +255,7 @@ http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Entertainment",Amar Bangla
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.cinemacity.live/uploads/tv_image/sm/dd-bangla-tv.jpg" group-title="Entertainment",DD Bangla
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLm9yYW5nZXNreWRpZ2l0YWxzdHVkaW8uYmlnZ2Jvc3NrYW5uYWRhcmV2aWV3X2ljb25fMTUzMDc3ODEwM18wMTc/icon.png?w=100&fakeurl=1&type=.webp" group-title="Entertainment",DD Bangla
 http://idvd.multitvsolution.com/idvo/ddbangla.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery HD
 #http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34391?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
@@ -313,7 +315,7 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #http://versewsa.pc.cdn.bitgravity.com:80/versewsa/live/amlst:cnnews_,b256,b512,b1024,b1824,.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3XcVLz/in-ctvn-akd-plus-3070.webp" group-title="News",CTVN AKD PLUS
 #http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:ctvn_akd_plus_,b256,b512,b1024,b1824,.smil/chunklist_b512000.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1437683320041533449/utkPZi5D_400x400.jpg" group-title="Assamese",Da News Plus Assam
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zr3gsmP/images-jpeg-1.jpg" group-title="Assamese or Bengali",Da News Plus
 http://rtmp.smartstream.video:80/danewsplus/danewsplus/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ji5nqGt.jpg",NK TV
 https://rtmp.smartstream.video/nktvlive/nktvlive/chunklist.m3u8
@@ -385,6 +387,4 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",tvn Movies
 http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",5 USA
-http://ott.riotelecomm.es:4513/m3u8/5USAFIBRA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1
