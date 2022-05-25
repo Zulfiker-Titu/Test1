@@ -23,6 +23,7 @@ http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
 #http://103.166.253.222/hls/t-sports.m3u8
 #http://103.159.4.38:9191/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/bdixsports.com/wp-content/uploads/2018/11/skynetsports.jpg" group-title="Sports",Sky Net Sports HD
+http://asdd.cc:7444/live/1/1/3389.m3u8
 #http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sony_ten.jpg" group-title="Sports",Sony Ten 1
 http://10.16.100.207:8082/sports/s0nytEn_1onehd.m3u8
@@ -55,11 +56,14 @@ http://10.16.100.207:8082/sports/ssselecthd1one.m3u8
 http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
 #http://103.55.144.46:80/hls/select2.m3u8
 #EXTINF:-1 tvg-logo="https://www.donasport.com/slike/supersport-cricket.jpg" group-title="Sports",Super Sports Cricket
-http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
+http://asdd.cc:7444/live/1/1/3380.m3u8
+#http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
 #EXTINF:-1 tvg-logo="https://ia600809.us.archive.org/18/items/SkySportsCricket_201708/sky%20sports%20cricket.png" group-title="Sports",Sky Sports Cricket
-http://103.124.110.34:8082/SKY-SPORTS-CRICKET/index.m3u8
+http://asdd.cc:7444/live/1/1/3377.m3u8
+#http://103.124.110.34:8082/SKY-SPORTS-CRICKET/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFZLTr66kSVh2moE5JpbSsfGRnowbY7fIE5peP2TmyQ1hRn8wIL4FuU0IS3i-C7fu9EsQYXtJTUS5qLYag6o1N7I6v5WOd7iwGtY4KPgOOvBwWwzz5qisl95ULUx6w2TC-cccM172EDghP2vM0lEDRzY2E5sx8LshUMPVclpYQCKoE1ePVacPyQkBahQ/w200-h200/Willow%20HD%20Logo.jpg" group-title="Sports",Willow HD
-http://103.124.110.34:8082/WILLOW-CRICKET-HD/index.m3u8
+http://asdd.cc:7444/live/1/1/3379.m3u8
+#http://103.124.110.34:8082/WILLOW-CRICKET-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adsanddata.be/content/uploads/2021/03/eurosport-icon-300x200.png" group-title="Sports",Eurosport
 http://103.139.171.5:5001/live.php?c=Dsports_HD&q=800&e=junk.m3u8
 #http://103.151.42.206:8000/play/a00n/index.m3u8
@@ -385,6 +389,4 @@ http://103.167.190.250:80/hls/mnx-hd.m3u8
 http://103.167.190.250:80/hls/movies-now.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",Gravitas Movies
-https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-t
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="En
