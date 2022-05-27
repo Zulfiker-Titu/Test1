@@ -39,7 +39,6 @@ http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
 #http://103.166.253.222/hls/t-sports.m3u8
 #http://103.159.4.38:9191/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/bdixsports.com/wp-content/uploads/2018/11/skynetsports.jpg" group-title="Sports",Sky Net Sports HD
-http://asdd.cc:7444/live/1/1/3389.m3u8
 #http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sony_ten.jpg" group-title="Sports",Sony Ten 1
 http://10.16.100.207:8082/sports/s0nytEn_1onehd.m3u8
