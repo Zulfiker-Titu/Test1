@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D4Q7JLY/CNHD.jpg" group-title="Kids",CN HD+
+http://node99669-techmaxpro-id02.in1.bitmana.io/live.php?c=CN_HD_English&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="Kids",Nick HD+
+http://node99669-techmaxpro-id02.in1.bitmana.io/live.php?c=Nick_HD_Plus&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids",Nick Bangla
+http://node99669-techmaxpro-id02.in1.bitmana.io/live.php?c=Nick_Bangla&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://logoeps.com/wp-content/uploads/2011/05/nick-jr.-logo-vector.png" group-title="Kids",Nick Jr.
+http://node99669-techmaxpro-id02.in1.bitmana.io/live.php?c=Nick_Junior&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/POGO.png" group-title="Kids",Pogo
+http://node99669-techmaxpro-id02.in1.bitmana.io/live.php?c=Pogo_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Kids",Sonic Bangla
+http://node99669-techmaxpro-id02.in1.bitmana.io/live.php?c=Sonic_Bangla&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids",Sony Yay
+http://node99669-techmaxpro-id02.in1.bitmana.io/live.php?c=Sony_Yay_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="Kids",Jio Kids
+http://node99669-techmaxpro-id02.in1.bitmana.io/live.php?c=Jio_KIDS&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV HD (Opt-1)
 http://103.167.190.250:80/hls/Gazi-TV.m3u8
 #http://103.124.110.34:8082/gtv/index.m3u8
@@ -56,19 +72,15 @@ http://10.16.100.207:8082/sports/ssselecthd1one.m3u8
 http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
 #http://103.55.144.46:80/hls/select2.m3u8
 #EXTINF:-1 tvg-logo="https://www.donasport.com/slike/supersport-cricket.jpg" group-title="Sports",Super Sports Cricket
-http://asdd.cc:7444/live/1/1/3380.m3u8
 #http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
 #EXTINF:-1 tvg-logo="https://ia600809.us.archive.org/18/items/SkySportsCricket_201708/sky%20sports%20cricket.png" group-title="Sports",Sky Sports Cricket
-http://asdd.cc:7444/live/1/1/3377.m3u8
 #http://103.124.110.34:8082/SKY-SPORTS-CRICKET/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFZLTr66kSVh2moE5JpbSsfGRnowbY7fIE5peP2TmyQ1hRn8wIL4FuU0IS3i-C7fu9EsQYXtJTUS5qLYag6o1N7I6v5WOd7iwGtY4KPgOOvBwWwzz5qisl95ULUx6w2TC-cccM172EDghP2vM0lEDRzY2E5sx8LshUMPVclpYQCKoE1ePVacPyQkBahQ/w200-h200/Willow%20HD%20Logo.jpg" group-title="Sports",Willow HD
-http://asdd.cc:7444/live/1/1/3379.m3u8
 #http://103.124.110.34:8082/WILLOW-CRICKET-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adsanddata.be/content/uploads/2021/03/eurosport-icon-300x200.png" group-title="Sports",Eurosport
 http://node99669-techmaxpro-id02.in1.bitmana.io/live.php?c=Dsports_HD&q=800&e=junk.m3u8
 #http://103.151.42.206:8000/play/a00n/index.m3u8
-#http://103.55.144.46:80/hls/euro.m3u8 
-
+#http://103.55.144.46:80/hls/euro.m3u8
 #EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2018/03/ATV-Logo.jpg" group-title="Bangla Movies",Ananda TV
 http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
 #http://stream.amrbd.com:8082/anandotv/tracks-v1a1/mono.m3u8?token=6ea1dd90c3822201c75f66a81555f5b96dc33239-d9ad4f85e3875ee12e3c347981e8967f-1651821027-1651810227
