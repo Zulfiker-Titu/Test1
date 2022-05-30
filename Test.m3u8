@@ -81,7 +81,7 @@ http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
 #http://103.55.144.46:80/hls/select2.m3u8
 #EXTINF:-1 tvg-logo="https://apkresult.com/Logos/astro-cricket-live-apkresltjpg.png" group-title="Sports",Astro Cricket
 https://www.olacast.live/cdn/premium370/chunks.m3u8?|Referer=https://player.licenses4.me/.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcMkzHw/images.png" group-title="Sports",Fox Sports 501 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thJZxrp/Fox-Sports-501-HD.png" group-title="Sports",Fox Sports 501 HD
 https://www.olacast.live/cdn/premium369/chunks.m3u8?|Referer=https://player.licenses4.me/.m3u8
 #EXTINF:-1 tvg-logo="https://www.donasport.com/slike/supersport-cricket.jpg" group-title="Sports",Super Sports Cricket
 https://www.olacast.live/cdn/premium368/chunks.m3u8?|Referer=https://player.licenses4.me/.m3u8
