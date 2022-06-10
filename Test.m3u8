@@ -351,7 +351,7 @@ https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8
 #http://14.199.164.20:4001/play/a0s6/index.m3u8
 http://idvd.multitvsolution.com/idvo/newstimebangla.m3u8 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/202101/abp-annada.png.jpg" group-title="News",ABP Ananda
-https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2021/02/News18-Bangla.jpg" group-title="News",News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0VcDPW7/R-Bangla-jpeg.jpg" group-title="News",R. Bangla
