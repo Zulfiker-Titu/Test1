@@ -9,6 +9,7 @@ http://103.139.171.5:5001/live.php?c=Nick_Bangla&q=1200&e=junk.m3u8
 http://103.139.171.5:5001/live.php?c=Nick_Junior&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/POGO.png" group-title="Kids",Pogo
 http://103.139.171.5:5001/live.php?c=Pogo_Hindi&q=1200&e=junk.m3u8
+#http://144.217.70.181:9587/hin2/POGO/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.btsprohd.com/wp-content/uploads/2022/03/20220330_151125.jpg" group-title="Kids",Sonic Bangla
 http://103.139.171.5:5001/live.php?c=Sonic_Bangla&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://d3e2xvtryj10p1.cloudfront.net/assets/images/logo.png" group-title="Kids",Sony Yay
@@ -314,7 +315,8 @@ http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
 http://103.139.171.5:5001/live.php?c=DD_Bangla&q=1200&e=junk.m3u8
 #http://idvd.multitvsolution.com/idvo/ddbangla.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery HD
-http://stream.amrbd.com:8082/Discovery-Tv/tracks-v1a1/mono.m3u8?token=54470e911e08145b9a9cad87737b1cebb16193a7-5af9b08f1f1dd39a99ea8b4ff2f81cee-1655070120-1655059320
+http://103.139.171.5:5001/live.php?c=Discovery_Channel_Bengali&q=1200&e=junk.m3u8
+#http://stream.amrbd.com:8082/Discovery-Tv/tracks-v1a1/mono.m3u8?token=54470e911e08145b9a9cad87737b1cebb16193a7-5af9b08f1f1dd39a99ea8b4ff2f81cee-1655070120-1655059320
 #http://tv2.ebox.live:8080/live/discovery.m3u8
 #http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34391?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #http://103.167.190.250:80/hls/discovery.m3u8
@@ -323,7 +325,7 @@ http://stream.amrbd.com:8082/Discovery-Tv/tracks-v1a1/mono.m3u8?token=54470e911e
 http://stream.amrbd.com:8082/Nat-Geo/tracks-v1a1/mono.m3u8?token=e8f492c9ea7ca2ff9eefdccd819d459e89460c64-65e8fd26c60a19cd00744327c5930ee4-1655070248-1655059448
 #http://tv2.ebox.live:8080/live/natg.m3u8
 #http://103.167.190.250:80/hls/ngohd.m3u8
-http://103.55.144.46:80/hls/ngohd.m3u8
+#http://103.55.144.46:80/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/travel-xp-hd-logo.jpg" group-title="Documentary",travel xp HD
 http://103.139.171.5:5001/live.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
 #http://103.167.190.250:80/hls/travelxp.m3u8
@@ -414,8 +416,6 @@ http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 http://103.139.171.5:5001/live.php?c=Ramdhenu&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="Food",Asian Food Network
 https://vips-livecdn.fptplay.net/hda1/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://catskillfoodcompany.com/img-png/food-network.png" group-title="Food",Food Network
-https://www.olacast.live/cdn/premium384/chunks.m3u8?|Referer=https://player.licenses4.me/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",Star World
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",Star Movies Gold
@@ -450,8 +450,8 @@ http://stream.amrbd.com:8082/MN-Plus/index.m3u8?token=4f0bd795ef3da01829343f21ef
 #http://103.55.144.46:80/hls/mn+.m3u8
 #http://103.167.190.250:80/hls/mn+.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",MNX HD
-http://stream.amrbd.com:8082/MNX-HD/tracks-v1a1/mono.m3u8?token=96f3cc0b83330d42167b17783b8eb9ed0a4b1147-86d503e5669cd12dd908d511ac610f29-1655071090-1655060290
-#http://103.55.144.46:80/hls/mnx-hd.m3u8
+#http://stream.amrbd.com:8082/MNX-HD/tracks-v1a1/mono.m3u8?token=96f3cc0b83330d42167b17783b8eb9ed0a4b1147-86d503e5669cd12dd908d511ac610f29-1655071090-1655060290
+http://103.55.144.46:80/hls/mnx-hd.m3u8
 #http://103.167.190.250:80/hls/mnx-hd.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",Movies Now HD
 http://stream.amrbd.com:8082/Movies_Now_2/tracks-v1a1/mono.m3u8?token=a8766fc966ee7439cba99f082a5748392706575e-d3ad9c3dd947d7d180c7f948c6df2898-1655071166-1655060366
@@ -471,3 +471,7 @@ http://ott.riotelecomm.es:4513/m3u8/5USAFIBRA.m3u8
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",A&E
 http://dam.feenyx.xyz:80/EWtt8xqW7H/BypD7nGybX/639?play_token=QFwmmJg3KT&token=T0FcVRVYF1xAVVBdCVUEVgUHVFADAlIBC1ZWCgVUXVZXUVEBBwBTUgFAThpLQEFWVltuDVFBDFMKXR8bExJdE2sKUBZcEgFRWlFAFBpAWl5SFAtVA1YDVQxXBQhSTRoRXQcWDkQCB1RbWkAUGlFLR1JEXwVZPFIATw1QXERbVhRYDxgWCV5qAgcPA1ZcFgkRBhQdRlwQRkcDCkZVCk0aA10XRlUSVRdcQFdQCwwWHxFUWUQKQRFPRwNGZmpETRoETBdRWhVZWghAWEBMSxYfEV5FbhZQEEIXXAVeXBRDAkMEQRgWC1FNOQENDFZdV0daWFhCRg9BB0cVRl5WCAhMDkY8RF0CEg9EUFBQDg4WTg==
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",MOVIES GROUP 1
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",Movie Sphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
